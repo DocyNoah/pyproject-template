@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+
+# pyproject.toml
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/*
+
+# MacOS
+.DS_Store
+
+# Output
+output/
+log/
+*.log
+runs/
+**wandb**/
+weights/
+ckpt/
+ckpts/
+checkpoint/
+checkpoints/
